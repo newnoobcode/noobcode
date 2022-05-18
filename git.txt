@@ -1,0 +1,23 @@
+newnoobcode
+
+-------GIT----------
+BLOBS
+TREES
+COMMITS
+
+
+CHAVES SSH e Tokens
+ssh-keygen -t ed25519 -c 
+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
+
+
+Criando um commit
+
+git init
+git add 
+git commit
+
+ git config --global user.email "nicolasreis117@outlook.com"
+ git config --global user.name Nicolas
+
+git add * 
