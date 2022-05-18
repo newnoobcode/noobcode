@@ -21,3 +21,12 @@ git commit
  git config --global user.name Nicolas
 
 git add * 
+git status
+git config --list
+ git config --global unset user.name
+
+$ git remote add origin https://github.com/newnoobcode/noobcode.git
+
+$ git remote -v
+origin  https://github.com/newnoobcode/noobcode.git (fetch)
+origin  https://github.com/newnoobcode/noobcode.git (push)
